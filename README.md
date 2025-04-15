@@ -2,17 +2,17 @@
 .NET Core 6.0 kullanarak, kullanıcıların kendi verilerini yönetebileceği dinamik bir portfolyo uygulaması geliştirdim. Bu projede hem kullanıcı hem de yönetici rollerine özel olarak tasarlanmış admin ve kullanıcı arayüz (UI) panelleri oluşturdum. Uygulama sayesinde kullanıcılar portfolyolarını kolayca oluşturup güncelleyebilirken, admin paneli üzerinden genel yönetim işlemleri gerçekleştirilebiliyor. Bu süreçte pek çok yeni teknoloji ve yöntem öğrenme fırsatı buldum ve kendimi hem backend hem de frontend alanlarında geliştirdim.
 💻 Kullandığım Teknolojiler:
 
-.Net Core 6.0: Modern ve sürdürülebilir bir altyapı sağladı.
+-.Net Core 6.0: Modern ve sürdürülebilir bir altyapı sağladı.
 
-Entity Framework Core: Veritabanı işlemleri için güçlü bir araç oldu, SQL yazmadan kolayca CRUD işlemleri yapılabildi.
+-Entity Framework Core: Veritabanı işlemleri için güçlü bir araç oldu, SQL yazmadan kolayca CRUD işlemleri yapılabildi.
 
-MS SQL Server: Güvenilir veritabanı yönetimi.
+-MS SQL Server: Güvenilir veritabanı yönetimi.
 
-Partial Views & ViewComponent: Kullanıcı arayüzünü daha dinamik ve yönetilebilir hale getirdim.
+-Partial Views & ViewComponent: Kullanıcı arayüzünü daha dinamik ve yönetilebilir hale getirdim.
 
-Tek Katmanlı Mimari: UI ve DataAccessLayer olarak iki ana yapıdan oluşan sade ve etkili bir mimari tercih ettim.
+-Tek Katmanlı Mimari: UI ve DataAccessLayer olarak iki ana yapıdan oluşan sade ve etkili bir mimari tercih ettim.
 
-UI (Kullanıcı Arayüzü): Kullanıcıyla etkileşimde olan kısmı.
+-UI (Kullanıcı Arayüzü): Kullanıcıyla etkileşimde olan kısmı.
 
 DataAccessLayer: Veritabanı işlemlerini gerçekleştiren katman.
 ## Projemden Görseller
@@ -26,11 +26,11 @@ DataAccessLayer: Veritabanı işlemlerini gerçekleştiren katman.
 
 ## Projede Neler Öğrendim?📚
 
-Web geliştirme becerilerimi ileri seviyeye taşıdım.
+-Web geliştirme becerilerimi ileri seviyeye taşıdım.
 
-Entity Framework kullanarak SQL yazmadan veritabanı yönetimini öğrendim.
+-Entity Framework kullanarak SQL yazmadan veritabanı yönetimini öğrendim.
 
-UI/UX odaklı düşünerek kullanıcı dostu bir tasarım ve sürdürülebilir kod yapısı oluşturdum.
+-UI/UX odaklı düşünerek kullanıcı dostu bir tasarım ve sürdürülebilir kod yapısı oluşturdum.
 
  ## 🚀 Proje Özellikleri:
 
